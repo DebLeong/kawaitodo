@@ -1,4 +1,5 @@
-# Welcome to Kawaitodo, a to do application built with react native
+# Welcome to Kawaitodo
+A to do application built with react native
 ## Instructions
 1. Git clone repository
 1. `cd kawaitodo`
