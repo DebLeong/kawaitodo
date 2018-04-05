@@ -1,10 +1,7 @@
 # Welcome to Todo App
 A to do application built with react native
 ## Demo
-<img src="./assets/splash.png" width="200">
-<img src="./demo/screenshot_add.png" width="200">
-<img src="./demo/screenshot_edit.png" width="200">
-<img src="./demo/screenshot_delete.png" width="200">
+<img src="./assets/splash.png" width="200">     <img src="./demo/screenshot_add.png" width="200">     <img src="./demo/screenshot_edit.png" width="200">     <img src="./demo/screenshot_delete.png" width="200">
 
 ## Instructions
 1. Git clone repository
